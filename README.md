@@ -1,5 +1,18 @@
 ### Hi there 👋
+My name is Ignacio Cipolatti, I am from Sunchales, Santa Fe, Argentina.
+I am an Electronics engineer from UTN San Francisco, Córdoba. 
 
+I LOVE embedded systems, robotics and all you can dessign, code and watch it move or make an action!
+
+I am currently working as a Linux embedded software. 
+* I've worked with microcontrollers like PIC, STM32 and ESP32.
+* ROS and a little of ROS2 using Python.
+
+
+[My linkeding profile](https://www.linkedin.com/in/ignacio-cipolatti-5a162358/)
+
+THIS PROFILE IS IN CONSTRUCTION,
+IT WILL CONTINUE...
 <!--
 **IgnacioCipo/IgnacioCipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
