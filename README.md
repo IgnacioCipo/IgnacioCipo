@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Ignacio Cipolatti, I am from Sunchales, Santa Fe, Argentina.
-I am an Electronics engineer from UTN San Francisco, Córdoba. 
+I am an Electronics Engineer from UTN San Francisco, Córdoba. 
 
 I LOVE embedded systems, robotics and all you can dessign, code and watch it move or make an action!
 
