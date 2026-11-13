@@ -1,30 +1,42 @@
-### Hi there 👋
-My name is Ignacio Cipolatti, I am from Sunchales, Santa Fe, Argentina.
-I am an Electronics Engineer from UTN San Francisco, Córdoba. 
+# Hi there! 👋
 
-I LOVE embedded systems, robotics and all you can dessign, code and watch it move or make an action!
+I'm **Ignacio Cipolatti**, an Electronics Engineer from Sunchales, Santa Fe, Argentina, graduated from UTN – Universidad Tecnológica Nacional (San Francisco, Córdoba).
 
-I am currently working as a Firmware developer in C/C++. I have experience with AWS services, mainly with IoTCore, DynamoDB, S3 and Lambdas, embedded Linux, SQL. 
-I am experienced with MQTT protocol, with TLS and mutual authentication. 
-* I've worked with microcontrollers like PIC, STM32 and ESP32 in different projects. 
-* ROS and a little of ROS2 using Python.
+I'm passionate about **embedded systems, firmware development, electronics, robotics, and IoT**. I enjoy turning ideas into real-world solutions by combining hardware and software.
 
+### 💻 About me
 
-[My linkeding profile](https://www.linkedin.com/in/ignacio-cipolatti-5a162358/)
+I'm currently working as a **Firmware Developer**, mainly focused on C/C++ development for embedded Linux devices.
 
-THIS PROFILE IS IN CONSTRUCTION,
-IT WILL CONTINUE...
-<!--
-**IgnacioCipo/IgnacioCipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My experience includes designing, developing, debugging, and maintaining firmware for connected devices, with a strong focus on reliability, performance, communication protocols, and cloud integration.
 
-Here are some ideas to get you started:
+Some of the technologies and areas I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Embedded Systems:** Embedded Linux, C/C++, microcontrollers and low-level development.
+- **IoT & Connectivity:** MQTT, TCP/IP, TLS, mutual TLS authentication and device-to-cloud communication.
+- **Cloud & AWS:** AWS IoT Core, DynamoDB, S3 and Lambda.
+- **Electronics & Hardware:** Microcontrollers such as STM32, ESP32 and PIC, PCB development and hardware/software integration.
+- **Software & Tools:** Git, CMake, Linux, SQL, Bash and Python.
+- **Robotics:** ROS and ROS2.
+
+### 🚀 What I enjoy
+
+I'm particularly interested in projects involving:
+
+- IoT devices and connected systems.
+- GPS tracking and asset monitoring solutions.
+- Embedded Linux and firmware architecture.
+- Electronics, automation and robotics.
+- Hardware/software integration and real-world problem solving.
+
+I love learning new technologies, experimenting with hardware, and building things that interact with the physical world.
+
+### 📫 Let's connect!
+
+Feel free to explore my repositories, check out my projects, or get in touch if you want to collaborate!
+
+[LinkedIn](YOUR_LINKEDIN_URL)
+
+---
+
+*Always learning, building and exploring new technologies.* ⚡
