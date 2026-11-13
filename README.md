@@ -4,7 +4,7 @@ I am an Electronics Engineer from UTN San Francisco, Córdoba.
 
 I LOVE embedded systems, robotics and all you can dessign, code and watch it move or make an action!
 
-I am currently working as a Linux embedded software in C/C++. I have experience with AWS services, mainly with IoTCore, DynamoDB, S3 and Lambdas. 
+I am currently working as a Firmware developer in C/C++. I have experience with AWS services, mainly with IoTCore, DynamoDB, S3 and Lambdas, embedded Linux, SQL. 
 I am experienced with MQTT protocol, with TLS and mutual authentication. 
 * I've worked with microcontrollers like PIC, STM32 and ESP32 in different projects. 
 * ROS and a little of ROS2 using Python.
